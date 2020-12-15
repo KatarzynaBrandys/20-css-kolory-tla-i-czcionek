@@ -1,18 +1,28 @@
-body {background-color:pink;}
-
-h1 {color:blueviolet;
-background-color: rgb(186, 153, 216);}
-
-.p1 {color:purple;
-background-color: salmon;}
-
-h3 {color:sandybrown;
-background-color: rgb(224, 192, 164);}
-
-.p2 {color:#91abe2;
-background-color: darkblue;
+body {
+    background-color:pink;
 }
 
-ol {color:cyan;
-background-color: darkcyan;
+h1 {
+    color:blueviolet;
+    background-color: rgb(186, 153, 216);
+}
+
+.p1 {
+    color:purple;
+    background-color: salmon;
+}
+
+h3 {
+    color:sandybrown;
+    background-color: rgb(224, 192, 164);
+}
+
+.p2 {
+    color:#91abe2;
+    background-color: darkblue;
+}
+
+ol {
+    color:cyan;
+    background-color: darkcyan;
 }
